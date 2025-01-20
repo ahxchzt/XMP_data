@@ -1,2 +1,2 @@
 # XMP_data
-The XMP dataset will be released once the paper is accepted.
+[The XMP dataset](https://drive.google.com/file/d/1eYkaQjylgy1QFUzV35uTIB8fCRRsc8_6/view?usp=drive_link)
